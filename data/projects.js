@@ -16,7 +16,7 @@ export const projects = [
     ],
     links: {
       repo: "https://github.com/ayaanzahmad/tech-liquidators", // UPDATE if needed
-      demo: "https://tech.ayaanahmad.org" // optional
+      demo: "https://www.youtube.com/watch?v=gv_x6II9IqI" // optional
     }
   },
   {
@@ -58,7 +58,7 @@ export const projects = [
     ],
     links: {
       repo: "https://github.com/ayaanzahmad/Veyra",   // update if different
-      demo: "https://veyra.ayaanahmad.org"           // optional subdomain or video demo
+      demo: "https://www.youtube.com/watch?v=1gDMXPmAfwo"           // optional subdomain or video demo
     }
   },
 ];
